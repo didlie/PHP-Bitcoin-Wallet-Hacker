@@ -1,3 +1,15 @@
+PHP-Bitcoin-Wallet-Hacker
+
+Original repository didn't work. This project is specically targeting Bitcoin, without intention to provide utilities for other coins. The purpose of this project is to generate predictable receiving codes with matching valid private keys to delegitamize the Bitcoin-verse. Amen.
+
+|^__^|
+|[oo]|
+| \/ |
+
+
+
+Forked from:
+
 PHPCoinAddress
 ==============
 PHPCoinAddress is a PHP object that creates public/private key pairs for:
